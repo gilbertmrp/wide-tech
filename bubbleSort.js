@@ -12,6 +12,7 @@ function bubbleSort(arr) {
             }
         }
     }
+    return arr;
 
     // 3
     for (let i = 0; i < n; i++) {
@@ -23,6 +24,7 @@ function bubbleSort(arr) {
             }
         }
     }
+    return arr;
 
     // 4
     for (let i = 0; i < n; i++) {
